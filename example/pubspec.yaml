@@ -1,0 +1,21 @@
+name: zj_pos_printer_example
+description: "Demonstrates how to use the zj_pos_printer plugin."
+publish_to: 'none' 
+
+environment:
+  sdk: '>=3.10.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  zj_pos_printer: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0 
+
+flutter:
+  uses-material-design: true
