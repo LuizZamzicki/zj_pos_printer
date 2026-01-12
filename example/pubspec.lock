@@ -139,6 +139,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.1"
+  plugin_platform_interface:
+    dependency: transitive
+    description:
+      name: plugin_platform_interface
+      sha256: "4820fbfdb9478b1ebae27888254d445073732dae3d6ea81f0b7e06d5dedc3f02"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.1.8"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -208,6 +216,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "15.0.2"
+  zj_pos_printer:
+    dependency: "direct main"
+    description:
+      name: zj_pos_printer
+      sha256: "2fc72f4f41d5ac5ef9c085113ef975133e00db483df1ab6f6d48f78a41c0f9df"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.2"
 sdks:
   dart: ">=3.10.4 <4.0.0"
   flutter: ">=3.18.0-18.0.pre.54"
