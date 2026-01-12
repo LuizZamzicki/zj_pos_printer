@@ -1,4 +1,3 @@
-# 0.0.1
+# 0.0.2
 
-- Initial release
-- USB printing support for ZJ POS devices
+- Solving duplicate conflict on android support
