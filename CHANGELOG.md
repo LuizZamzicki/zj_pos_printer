@@ -1,3 +1,3 @@
-# 0.0.2
+# 0.0.3
 
-- Solving duplicate conflict on android support
+- Removed duplicated jar file
